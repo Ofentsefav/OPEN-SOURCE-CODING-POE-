@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933934807486",
+    "project_id": "poefinal-99a41",
+    "storage_bucket": "poefinal-99a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933934807486:android:6b2b3b22632b06b71a61ef",
+        "android_client_info": {
+          "package_name": "com.example.poefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933934807486-3riprbkr75r9ognv4jgffpiv59bp71oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7beZvljW11MdD6wlJy4s8bG5fAwWTKnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933934807486-3riprbkr75r9ognv4jgffpiv59bp71oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
